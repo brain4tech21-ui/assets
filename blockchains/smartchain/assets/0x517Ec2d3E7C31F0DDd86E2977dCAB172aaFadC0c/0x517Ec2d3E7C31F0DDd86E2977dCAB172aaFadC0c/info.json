@@ -1,0 +1,6 @@
+{
+  "name": "BEP20",
+  "symbol": "YOUR SYMBOL",
+  "type": "BEP20",
+  "decimals": 10
+}
