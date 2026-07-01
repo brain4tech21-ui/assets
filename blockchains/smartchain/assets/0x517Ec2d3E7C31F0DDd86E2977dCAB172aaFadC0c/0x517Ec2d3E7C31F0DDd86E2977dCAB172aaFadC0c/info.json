@@ -1,6 +1,6 @@
 {
   "name": "BEP20",
-  "symbol": "YOUR SYMBOL",
+  "symbol": "USDT",
   "type": "BEP20",
-  "decimals": 10
+  "decimals": 12
 }
